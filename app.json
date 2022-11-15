@@ -1,7 +1,7 @@
 {
   "name": "botkhufu",
   "description": "",
-  "repository": "https://github.com/Khufu737/khufuuuV1",
+  "repository": "https://github.com/xlucifer711/khufuuuV1",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
